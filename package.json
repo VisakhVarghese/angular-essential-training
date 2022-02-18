@@ -23,6 +23,7 @@
     "@angular/platform-browser": "8.0.1",
     "@angular/platform-browser-dynamic": "8.0.1",
     "@angular/router": "8.0.1",
+    "add": "^2.0.6",
     "core-js": "2.5.4",
     "rxjs": "6.5.2",
     "tslib": "1.9.0",
@@ -30,7 +31,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.800.3",
-    "@angular/cli": "8.0.3",
+    "@angular/cli": "^8.3.29",
     "@angular/compiler-cli": "8.0.1",
     "@angular/language-service": "8.0.1",
     "@types/node": "8.9.4",
